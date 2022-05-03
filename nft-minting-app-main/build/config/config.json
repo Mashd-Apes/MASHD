@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC283EA3706dD58e6c3D7bf3e61BEE95C6eBA95D9",
+  "SCAN_LINK": "https://etherscan.io/address/0xc283ea3706dd58e6c3d7bf3e61bee95c6eba95d9",
+  "NETWORK": {
+    "NAME": "Etherum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Mash'd Apes",
+  "SYMBOL": "MASHD",
+  "MAX_SUPPLY": 225,
+  "WEI_COST": 0.000000000000000000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mashd-apes",
+  "SHOW_BACKGROUND": true
+}
