@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 225,
   "WEI_COST": 0.000000000000000000,
   "DISPLAY_COST": 0,
-  "GAS_LIMIT": 195000,
+  "GAS_LIMIT": 200000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/mashd-apes",
   "SHOW_BACKGROUND": true
